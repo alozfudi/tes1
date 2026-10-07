@@ -7,10 +7,10 @@ Repository ekstensi tes1 untuk CloudStream.
 CloudStream → Pengaturan → Ekstensi → Tambah repository:
 
 ```
-https://raw.githubusercontent.com/alozfudi/tes1/main/repository.json
+https://raw.githubusercontent.com/alozfudi/tes1/main/repository-v4.json
 ```
 
-Install atau perbarui tes1 ke versi 4.
+Install atau perbarui tes1 ke versi 4. Jika daftar masih menampilkan v3, hapus ekstensi tes1 lama dan repository tes1 lama, lalu tambahkan URL di atas. URL daftar plugin dan file unduhan versi 4 berbeda untuk menghindari pemakaian cache lama.
 
 ## Verifikasi di dalam CloudStream
 

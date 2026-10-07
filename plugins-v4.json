@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes1-v4.cs3",
+    "status": 1,
+    "version": 4,
+    "apiVersion": 1,
+    "name": "tes1",
+    "internalName": "tes1",
+    "authors": [
+      "ANDonekey",
+      "Codex"
+    ],
+    "description": "tes1: in-app verification and native Cloudflare handling.",
+    "repositoryUrl": "https://github.com/alozfudi/tes1",
+    "language": "zh",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "fileSize": 28265,
+    "fileHash": "sha256-db003705f00591984dd8c34d27395ef7348b025dc7b70e1e292493c62e8ebc92"
+  }
+]
