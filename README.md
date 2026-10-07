@@ -1,24 +1,21 @@
-# Hanime1 CloudStream Repository
+# tes1
 
-Repository khusus Hanime1Provider versi 2.
+Repository ekstensi tes1 untuk CloudStream.
 
-## Tambahkan ke CloudStream
+## Instalasi
 
-Pengaturan → Ekstensi → Tambah repository. Masukkan URL berikut:
+CloudStream → Pengaturan → Ekstensi → Tambah repository:
 
 ```text
-https://raw.githubusercontent.com/alozfudi/hanime1-cloudstream/main/repository.json
+https://raw.githubusercontent.com/alozfudi/tes1/main/repository.json
 ```
 
-Buka repository **Hanime1 Cloudflare Fix**, lalu install **Hanime1.me**.
+Buka repository **tes1**, lalu install **tes1**. Jika versi lama masih terpasang dengan nama berbeda, hapus versi lama terlebih dahulu.
 
-## Perubahan versi 2
+## Versi 3
 
-- Satu instance `CloudflareKiller` bawaan CloudStream untuk halaman dan interceptor video.
-- `usesWebView = true` dan `sequentialMainPage = true`.
-- Fallback untuk respons 403/503 dan HTML challenge Cloudflare.
-- Parsing, kategori, pagination, pencarian, metadata, rekomendasi, serta ekstraksi link tetap dipertahankan.
+Nama tampilan dan manifest plugin menggunakan **tes1**. Plugin menggunakan satu instance CloudflareKiller bawaan CloudStream untuk halaman dan video, dengan halaman utama berurutan dan fallback untuk respons 403/503 serta halaman challenge. Parsing dan fitur provider tetap dipertahankan.
 
-Build `:Hanime1Provider:make` berhasil dengan Gradle 8.13, JDK 17, Android SDK 35 dan Kotlin 2.3.0. Arsip `.cs3` diverifikasi mengandung manifest versi 2 dan DEX valid. Penanganan Cloudflare saat dijalankan belum diuji di perangkat Android.
+Build Gradle berhasil dan arsip plugin telah diperiksa: manifest versi 3 serta classes.dex valid. Penanganan Cloudflare saat berjalan belum diuji di perangkat Android.
 
-Sumber awal dan kredit: [ANDonekey/cloudstreamPlugins](https://github.com/ANDonekey/cloudstreamPlugins).
+Kredit sumber: [ANDonekey/cloudstreamPlugins](https://github.com/ANDonekey/cloudstreamPlugins).

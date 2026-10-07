@@ -1,8 +1,8 @@
 {
-  "name": "Hanime1 Cloudflare Fix",
-  "description": "Hanime1Provider v2 with native CloudStream Cloudflare handling",
+  "name": "tes1",
+  "description": "tes1 extension repository for CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/alozfudi/hanime1-cloudstream/main/plugins.json"
+    "https://raw.githubusercontent.com/alozfudi/tes1/main/plugins.json"
   ]
 }
