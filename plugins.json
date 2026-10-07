@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/alozfudi/hanime1-cloudstream/main/Hanime1Provider.cs3",
+    "status": 1,
+    "version": 2,
+    "apiVersion": 1,
+    "name": "Hanime1.me",
+    "internalName": "Hanime1Provider",
+    "authors": [
+      "ANDonekey",
+      "Codex"
+    ],
+    "description": "Hanime1Provider v2: native CloudflareKiller, sequential main pages and video interceptor.",
+    "repositoryUrl": "https://github.com/ANDonekey/cloudstreamPlugins",
+    "language": "zh",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hanime1.me&sz=%size%",
+    "fileSize": 22760,
+    "fileHash": "sha256-0c21e894b6b19a9c095591e074d42710ba1d9f6960297a057575e47ec0b05aec"
+  }
+]

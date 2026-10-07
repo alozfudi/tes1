@@ -1,0 +1,8 @@
+{
+  "name": "Hanime1 Cloudflare Fix",
+  "description": "Hanime1Provider v2 with native CloudStream Cloudflare handling",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/alozfudi/hanime1-cloudstream/main/plugins.json"
+  ]
+}
