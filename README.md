@@ -1,30 +1,15 @@
 # tes1
 
-Repository ekstensi tes1 untuk CloudStream.
+CloudStream extension, version 5.
 
-## Instalasi
+Add this repository URL in CloudStream:
 
-CloudStream → Pengaturan → Ekstensi → Tambah repository:
+https://raw.githubusercontent.com/alozfudi/tes1/main/repository-v5.json
 
-```
-https://raw.githubusercontent.com/alozfudi/tes1/main/repository-v4.json
-```
+Install tes1 and confirm that the extension shows v5. If a previous repository still shows v3/v4, remove the old installation and add the fresh URL above.
 
-Install atau perbarui tes1 ke versi 4. Jika daftar masih menampilkan v3, hapus ekstensi tes1 lama dan repository tes1 lama, lalu tambahkan URL di atas. URL daftar plugin dan file unduhan versi 4 berbeda untuk menghindari pemakaian cache lama.
+Open the tes1 extension settings (gear), complete the site verification, select **Gunakan sesi**, then refresh the tes1 home page. The verification screen enables JavaScript, DOM storage and third-party cookies and displays Android/WebView versions plus detected numeric errors. **Muat ulang** reloads only when selected by the user.
 
-## Verifikasi di dalam CloudStream
+Page requests and the video interceptor use one native CloudflareKiller instance. The verification screen does not extract or copy cookies manually. Existing provider parsing and features are preserved.
 
-1. Buka Pengaturan → Ekstensi → tes1 → ikon roda gigi.
-2. Selesaikan verifikasi manusia secara manual pada halaman yang tampil.
-3. Setelah situs terbuka, pilih **Gunakan sesi**.
-4. Kembali ke beranda tes1 dan tekan refresh.
-
-Halaman ini memakai sesi WebView aplikasi yang dibaca oleh CloudflareKiller bawaan CloudStream. Browser eksternal tidak diperlukan. Verifikasi dapat diperlukan lagi setelah aplikasi dimulai ulang atau sesi kedaluwarsa. Plugin tidak menjamin bahwa semua challenge Cloudflare dapat diselesaikan di setiap perangkat.
-
-## Versi 4
-
-Menambahkan layar verifikasi melalui pengaturan plugin dan petunjuk ketika sesi belum siap. Satu instance CloudflareKiller dipakai untuk request halaman dan video, dengan usesWebView, halaman utama berurutan, serta deteksi fallback 403/503 dan halaman challenge. Parsing, kategori, pencarian, pagination, detail, dan pemutaran provider dipertahankan.
-
-Build Gradle berhasil. Arsip telah diperiksa: manifest versi 4 dan classes.dex valid. Alur interaktif belum diuji langsung pada perangkat Android pengguna.
-
-Kredit sumber: [ANDonekey/cloudstreamPlugins](https://github.com/ANDonekey/cloudstreamPlugins).
+Built with the repository Gradle task `:Hanime1Provider:make`. ZIP integrity, manifest version/name and classes.dex checksums verified. Verification on an Android device has not been tested here; Cloudflare may still reject a device or session. If verification fails, send a photo including the version/error line at the top of the verification screen.
