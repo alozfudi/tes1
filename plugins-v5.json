@@ -1,8 +1,8 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes1-v5.cs3",
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes1-v6.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "apiVersion": 1,
     "name": "tes1",
     "internalName": "tes1",
@@ -10,13 +10,13 @@
       "ANDonekey",
       "Codex"
     ],
-    "description": "tes1: WebView compatibility, verification diagnostics and native Cloudflare handling.",
+    "description": "tes1: persistent verification diagnostics and official Cloudflare compatibility test.",
     "repositoryUrl": "https://github.com/alozfudi/tes1",
     "language": "zh",
     "tvTypes": [
       "NSFW"
     ],
-    "fileSize": 31107,
-    "fileHash": "sha256-1816fd35686fa7b546e41f05b24c21981e6f16e7423c9be99cfc745d7df58739"
+    "fileSize": 33127,
+    "fileHash": "sha256-97d6481874293b555f1a7a8669f7e25f5f62854783c6644c404e370d9f89dd22"
   }
 ]

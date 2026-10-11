@@ -3,6 +3,6 @@
   "description": "tes1 extension repository for CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/alozfudi/tes1/main/plugins-v5.json"
+    "https://raw.githubusercontent.com/alozfudi/tes1/main/plugins-v6.json"
   ]
 }
