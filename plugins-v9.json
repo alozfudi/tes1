@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes1-v9.cs3",
+    "status": 1,
+    "version": 9,
+    "apiVersion": 1,
+    "name": "tes1",
+    "internalName": "tes1",
+    "authors": [
+      "ANDonekey",
+      "Codex"
+    ],
+    "description": "tes1: corrected challenge detection; normal pages with passive Cloudflare scripts are accepted.",
+    "repositoryUrl": "https://github.com/alozfudi/tes1",
+    "language": "zh",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "fileSize": 35641,
+    "fileHash": "sha256-ad8b6180bc63d5016ab2b3eb3be392d5c07e855ff3520fb2eafebc2d2de5c822"
+  }
+]
