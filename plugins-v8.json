@@ -20,9 +20,9 @@
     "fileHash": "sha256-ad8b6180bc63d5016ab2b3eb3be392d5c07e855ff3520fb2eafebc2d2de5c822"
   },
   {
-    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes2.cs3",
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes2-v2.cs3",
     "status": 1,
-    "version": 1,
+    "version": 2,
     "apiVersion": 1,
     "name": "tes2",
     "internalName": "tes2",
@@ -35,7 +35,7 @@
     "tvTypes": [
       "NSFW"
     ],
-    "fileSize": 20676,
-    "fileHash": "sha256-2ff4f03705c07ac48f5d8163e019ef6ab6012de848750b27e4b09fa50e8e5643"
+    "fileSize": 21024,
+    "fileHash": "sha256-06055a9a4ccad7a228a546f015293b46624e64453d0ce0234d0a2445d4c6f27a"
   }
 ]
