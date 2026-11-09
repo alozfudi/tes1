@@ -1,0 +1,8 @@
+{
+  "name": "tes2 v3",
+  "description": "CloudStream installer for tes2 v3",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/alozfudi/tes1/main/plugins-tes2-v3.json"
+  ]
+}
