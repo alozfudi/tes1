@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes3-v2.cs3",
+    "status": 1,
+    "version": 2,
+    "apiVersion": 1,
+    "name": "tes3",
+    "internalName": "tes3",
+    "authors": [
+      "Codex"
+    ],
+    "description": "tes3 v2: open the gear icon to verify the site, then select Gunakan sesi.",
+    "repositoryUrl": "https://github.com/alozfudi/tes1",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "fileSize": 29766,
+    "fileHash": "sha256-e3eb8184506607982b4601ca3f2d47c4909a0d731d95eddb5d711a1fff22dde7"
+  }
+]
+
