@@ -1,22 +1,22 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/alozfudi/tes1/bdf1c9e9b544f7e9b563d56a5d4a455ada81058d/tes3-v3.cs3",
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/5ec6676458fa1d93d25b8d528fb4ea2fd079197a/tes3-v4.cs3",
     "status": 1,
-    "version": 3,
+    "version": 4,
     "apiVersion": 1,
     "name": "tes3",
     "internalName": "tes3",
     "authors": [
       "Codex"
     ],
-    "description": "tes3 v3: fixes verification page layout and reports WebView loading errors.",
+    "description": "tes3 v4: improves card titles, lazy thumbnails and poster request headers.",
     "repositoryUrl": "https://github.com/alozfudi/tes1",
     "language": "en",
     "tvTypes": [
       "NSFW"
     ],
-    "fileSize": 30402,
-    "fileHash": "sha256-1855661b0e44d6e2d19ea3aec32a1b2e3ec39979324ca9925242ab11b86f0ebd"
+    "fileSize": 33939,
+    "fileHash": "sha256-bd9e19c1c2bc312a627cf38b1633aa5d7286e29ff40ab2a2b5946f5800c1f4d8"
   }
 ]
 
