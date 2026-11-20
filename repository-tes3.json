@@ -1,0 +1,9 @@
+{
+  "name": "tes3",
+  "description": "CloudStream extension repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/alozfudi/tes1/main/plugins-tes3.json"
+  ]
+}
+

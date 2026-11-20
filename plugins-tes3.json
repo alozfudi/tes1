@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes3-v1.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "tes3",
+    "internalName": "tes3",
+    "authors": [
+      "Codex"
+    ],
+    "description": "tes3",
+    "repositoryUrl": "https://github.com/alozfudi/tes1",
+    "language": "en",
+    "tvTypes": [
+      "NSFW"
+    ],
+    "fileSize": 24379,
+    "fileHash": "sha256-2a62e24c1c839a08522b895a69e4b9ead1aae5378708a0a1ffe4f48c3a5ef209"
+  }
+]
+
