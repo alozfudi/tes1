@@ -39,23 +39,23 @@
     "fileHash": "sha256-1b9adcb40744c792bc6d3b627f6661fe6fe9808d68d2f893345eda2fe48891f1"
   },
   {
-    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes3-v2.cs3",
+    "url": "https://raw.githubusercontent.com/alozfudi/tes1/main/tes3-v3.cs3",
     "status": 1,
-    "version": 2,
+    "version": 3,
     "apiVersion": 1,
     "name": "tes3",
     "internalName": "tes3",
     "authors": [
       "Codex"
     ],
-    "description": "tes3 v2: open the gear icon to verify the site, then select Gunakan sesi.",
+    "description": "tes3 v3: fixes verification page layout and reports WebView loading errors.",
     "repositoryUrl": "https://github.com/alozfudi/tes1",
     "language": "en",
     "tvTypes": [
       "NSFW"
     ],
-    "fileSize": 29766,
-    "fileHash": "sha256-e3eb8184506607982b4601ca3f2d47c4909a0d731d95eddb5d711a1fff22dde7"
+    "fileSize": 30402,
+    "fileHash": "sha256-1855661b0e44d6e2d19ea3aec32a1b2e3ec39979324ca9925242ab11b86f0ebd"
   }
 ]
 
